@@ -90,7 +90,7 @@
 
               <li>
                 <div class="about-img">
-                  <img src="images/aboutme.png" alt="">
+                  <img src="images/03.JPG" alt="">
                 </div>
               </li>
 
